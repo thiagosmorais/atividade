@@ -34,6 +34,8 @@ function pintaPaleta (){
     return colocaCor;
 }
 
+
+
 function criaQuadro() {
     const getQuadro = document.getElementById('pixel-board');
     getQuadro.style.width = '240px';
